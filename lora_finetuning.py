@@ -1,5 +1,5 @@
 """
-Part 4: Behavioral Steering with LoRA (Making the Model Happy!)
+Behavioral Steering with LoRA (Making the Model Happy!)
 Fine-tunes TinyLlama-1.1B on joyful text using Low-Rank Adaptation (LoRA).
 Only ~0.2% of parameters are trained, making this feasible on a single GPU.
 """
